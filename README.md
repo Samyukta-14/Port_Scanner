@@ -10,7 +10,7 @@ A simple and easy-to-use port scanner that allows you to quickly and easily scan
 
 To use the port scanner, simply run the script and provide the host or IP address that you want to scan as a command line argument.
 
-python3 scanner.py <ip address>
+python3 scanner.py "ip address"
 
 The script will then scan the IP address for open ports and display the results in the terminal.
 
