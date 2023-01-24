@@ -34,5 +34,5 @@ Enjoy!
 
 ## Credits
 
-- Port scanner code is based on Cybermentor's port scanner
-- Many thanks to Cybermentor for sharing their knowledge and code.
+- Port scanner code is based on The Cyber Mentor's port scanner
+- Many thanks to The Cyber Mentor for sharing their knowledge and code.
