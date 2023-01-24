@@ -31,3 +31,8 @@ The script will then scan the IP address for open ports and display the results 
 Feel free to fork the project and submit pull requests for new features or improvements.
 
 Enjoy!
+
+## Credits
+
+- Port scanner code is based on Cybermentor's port scanner
+- Many thanks to Cybermentor for sharing their knowledge and code.
