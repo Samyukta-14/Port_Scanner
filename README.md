@@ -35,4 +35,4 @@ Enjoy!
 ## Credits
 
 - Port scanner code is based on The Cyber Mentor's port scanner
-- Many thanks to The Cyber Mentor for sharing their knowledge and code.
+- Many thanks to The Cyber Mentor for sharing his knowledge and code.
